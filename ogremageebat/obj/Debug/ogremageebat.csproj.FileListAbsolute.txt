@@ -1,0 +1,14 @@
+C:\Users\Захар\source\repos\ogremageebat\ogremageebat\bin\Debug\ogremageebat.exe.config
+C:\Users\Захар\source\repos\ogremageebat\ogremageebat\bin\Debug\ogremageebat.exe
+C:\Users\Захар\source\repos\ogremageebat\ogremageebat\bin\Debug\ogremageebat.pdb
+C:\Users\Захар\source\repos\ogremageebat\ogremageebat\obj\Debug\ogremageebat.csproj.AssemblyReference.cache
+C:\Users\Захар\source\repos\ogremageebat\ogremageebat\obj\Debug\MainWindow.baml
+C:\Users\Захар\source\repos\ogremageebat\ogremageebat\obj\Debug\MainWindow.g.cs
+C:\Users\Захар\source\repos\ogremageebat\ogremageebat\obj\Debug\App.g.cs
+C:\Users\Захар\source\repos\ogremageebat\ogremageebat\obj\Debug\ogremageebat_MarkupCompile.cache
+C:\Users\Захар\source\repos\ogremageebat\ogremageebat\obj\Debug\ogremageebat.g.resources
+C:\Users\Захар\source\repos\ogremageebat\ogremageebat\obj\Debug\ogremageebat.Properties.Resources.resources
+C:\Users\Захар\source\repos\ogremageebat\ogremageebat\obj\Debug\ogremageebat.csproj.GenerateResource.cache
+C:\Users\Захар\source\repos\ogremageebat\ogremageebat\obj\Debug\ogremageebat.csproj.CoreCompileInputs.cache
+C:\Users\Захар\source\repos\ogremageebat\ogremageebat\obj\Debug\ogremageebat.exe
+C:\Users\Захар\source\repos\ogremageebat\ogremageebat\obj\Debug\ogremageebat.pdb
